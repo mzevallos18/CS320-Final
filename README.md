@@ -1,1 +1,6 @@
 # CS320-Final
+How can I ensure that my code, program, or software is functional and secure?
+How do I interpret user needs and incorporate them into a program?
+How do I approach designing software?
+
+To ensure my code, program, or software is functional and secure, I prioritize unit testing, coverage testing, and exception handling to validate key constraints and prevent invalid data entry. By implementing structured test cases, such as verifying ID uniqueness and character limits, I confirm that my application adheres to functional requirements and maintains data integrity. Coverage testing helps ensure that all critical parts of the code are executed during testing, reducing the risk of undetected bugs. Interpreting user needs involves analyzing software requirements and designing test cases that align with expected behaviors, such as rejecting improperly formatted inputs. When designing software, I follow a structured approach that emphasizes modular development, efficient data storage using collections like HashMaps, and disciplined testing to minimize technical debt. While integration and performance testing were not included in this project, they are valuable for ensuring seamless interactions and system efficiency in larger applications.
